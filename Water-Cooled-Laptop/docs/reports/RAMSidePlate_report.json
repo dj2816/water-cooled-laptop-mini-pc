@@ -1,0 +1,76 @@
+{
+  "script": "DJFH_RAMSidePlateGenerator",
+  "part_name": "RAMSidePlate",
+  "quantity": 1,
+  "units": "mm",
+  "plate": {
+    "length": 363.0,
+    "width": 244.0,
+    "thickness": 3.0,
+    "corner_radius": 3.0
+  },
+  "vents": {
+    "diameter": 55.0,
+    "opening_type": "fully open circular cutout",
+    "left_center_from_left": 52.0,
+    "right_center_from_right": 52.0,
+    "center_from_top": 75.0
+  },
+  "mount_holes": {
+    "diameter": 3.2,
+    "thread": "M3 clearance",
+    "centers_from_top_left": [
+      [
+        95.0,
+        6.0
+      ],
+      [
+        256.0,
+        6.0
+      ],
+      [
+        21.0,
+        46.0
+      ],
+      [
+        342.0,
+        46.0
+      ],
+      [
+        12.0,
+        238.0
+      ],
+      [
+        125.0,
+        238.0
+      ],
+      [
+        238.0,
+        238.0
+      ],
+      [
+        351.0,
+        238.0
+      ]
+    ]
+  },
+  "access_hole": {
+    "diameter": 30.0,
+    "radius": 15.0,
+    "center_from_left": 22.0,
+    "center_from_bottom": 30.0
+  },
+  "fusion": {
+    "profile_count": 12,
+    "solid_body_count": 1,
+    "largest_profile_area_mm2": 83041.4172807245,
+    "user_parameter_count": 27
+  },
+  "files": {
+    "f3d": "CAD/RAMSidePlate.f3d",
+    "step": "CAD/RAMSidePlate.step",
+    "dxf": "CAD/RAMSidePlate_QTY1_1to1.dxf",
+    "preview": "images/ram-side-plate-cad.png"
+  },
+  "note": "RAM-side plate with two fully open fan cutouts, one 30 mm lower-left access opening, eight shared M3 holes including two new top-edge holes, and four evenly spaced bottom M3 holes."
+}

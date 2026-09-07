@@ -1,0 +1,228 @@
+{
+  "plate_mm": [
+    363.0,
+    244.0,
+    3.0
+  ],
+  "corner_radius_mm": 3.0,
+  "front_plate": {
+    "vent_centers_from_top_left_mm": [
+      [
+        52.0,
+        75.0
+      ],
+      [
+        311.0,
+        75.0
+      ]
+    ],
+    "vent_diameter_mm": 55.0,
+    "vent_opening_type": "fully open circles",
+    "access_hole": {
+      "diameter_mm": 30.0,
+      "radius_mm": 15.0,
+      "center_from_top_left_mm": [
+        22.0,
+        214.0
+      ],
+      "center_from_bottom_left_mm": [
+        22.0,
+        30.0
+      ]
+    },
+    "mount_hole_centers_from_top_left_mm": [
+      [
+        95.0,
+        6.0
+      ],
+      [
+        256.0,
+        6.0
+      ],
+      [
+        21.0,
+        46.0
+      ],
+      [
+        342.0,
+        46.0
+      ],
+      [
+        12.0,
+        238.0
+      ],
+      [
+        125.0,
+        238.0
+      ],
+      [
+        238.0,
+        238.0
+      ],
+      [
+        351.0,
+        238.0
+      ]
+    ]
+  },
+  "back_plate": {
+    "vent_count": 0,
+    "power_hole_count": 0,
+    "top_edge_notch": {
+      "width_mm": 5.0,
+      "depth_mm": 5.0,
+      "right_edge_from_right_mm": 180.0,
+      "left_edge_from_left_mm": 178.0,
+      "right_edge_from_left_mm": 183.0,
+      "minimum_hole_clearance_mm": 71.40684899377592
+    },
+    "mount_hole_centers_from_top_left_mm": [
+      [
+        95.0,
+        6.0
+      ],
+      [
+        256.0,
+        6.0
+      ],
+      [
+        21.0,
+        46.0
+      ],
+      [
+        342.0,
+        46.0
+      ],
+      [
+        12.0,
+        238.0
+      ],
+      [
+        125.0,
+        238.0
+      ],
+      [
+        238.0,
+        238.0
+      ],
+      [
+        351.0,
+        238.0
+      ]
+    ],
+    "mount_hole_centers_from_bottom_left_mm": [
+      [
+        95.0,
+        238.0
+      ],
+      [
+        256.0,
+        238.0
+      ],
+      [
+        21.0,
+        198.0
+      ],
+      [
+        342.0,
+        198.0
+      ],
+      [
+        12.0,
+        6.0
+      ],
+      [
+        125.0,
+        6.0
+      ],
+      [
+        238.0,
+        6.0
+      ],
+      [
+        351.0,
+        6.0
+      ]
+    ],
+    "additional_m3_hole_centers_from_bottom_left_mm": [
+      [
+        36.0,
+        4.0
+      ],
+      [
+        47.0,
+        11.0
+      ],
+      [
+        46.0,
+        19.0
+      ],
+      [
+        22.0,
+        46.0
+      ]
+    ]
+  },
+  "third_plate": {
+    "vent_count": 0,
+    "access_hole_count": 0,
+    "mount_hole_centers_from_top_left_mm": [
+      [
+        95.0,
+        6.0
+      ],
+      [
+        256.0,
+        6.0
+      ],
+      [
+        12.0,
+        238.0
+      ],
+      [
+        125.0,
+        238.0
+      ],
+      [
+        238.0,
+        238.0
+      ],
+      [
+        351.0,
+        238.0
+      ]
+    ],
+    "excluded_unmarked_hole_centers_from_top_left_mm": [
+      [
+        21.0,
+        46.0
+      ],
+      [
+        342.0,
+        46.0
+      ]
+    ],
+    "minimum_edge_clearance_mm": 4.4,
+    "minimum_pair_clearance_mm": 109.80000000000001
+  },
+  "mount_hole_diameter_mm": 3.2,
+  "removed_old_bottom_mounts_mm": [
+    [
+      12.0,
+      186.0
+    ],
+    [
+      351.0,
+      186.0
+    ]
+  ],
+  "minimum_mount_edge_clearance_mm": 4.4,
+  "minimum_mount_pair_clearance_mm": 80.91896337925238,
+  "minimum_front_mount_to_vent_clearance_mm": 13.349970553582246,
+  "minimum_front_mount_to_access_clearance_mm": 9.399999999999999,
+  "minimum_front_vent_to_access_clearance_mm": 99.70056258679148,
+  "minimum_back_additional_to_existing_clearance_mm": 20.88318915758459,
+  "minimum_back_additional_pair_clearance_mm": 4.86225774829855,
+  "bounds_ok": true,
+  "no_circular_cutout_intersections": true
+}

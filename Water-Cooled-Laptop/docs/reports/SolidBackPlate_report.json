@@ -1,0 +1,97 @@
+{
+  "script": "DJFH_SolidBackPlateGenerator",
+  "part_name": "SolidBackPlate",
+  "quantity": 1,
+  "units": "mm",
+  "plate": {
+    "length": 363.0,
+    "width": 244.0,
+    "thickness": 3.0,
+    "corner_radius": 3.0000000000000004
+  },
+  "vents": {
+    "count": 0,
+    "description": "No ventilation openings on the solid back plate"
+  },
+  "top_edge_notch": {
+    "width": 5.0,
+    "depth": 5.0,
+    "right_edge_from_right": 180.0,
+    "left_edge_from_left": 178.0,
+    "right_edge_from_left": 183.0,
+    "through_thickness": true
+  },
+  "mount_holes": {
+    "diameter": 3.2000000000000006,
+    "thread": "M3 clearance",
+    "centers_from_top_left": [
+      [
+        95.0,
+        6.0
+      ],
+      [
+        256.0,
+        6.0
+      ],
+      [
+        21.0,
+        46.00000000000001
+      ],
+      [
+        342.0,
+        46.00000000000001
+      ],
+      [
+        12.0,
+        238.0
+      ],
+      [
+        125.0,
+        238.0
+      ],
+      [
+        238.0,
+        238.0
+      ],
+      [
+        351.0,
+        238.0
+      ]
+    ]
+  },
+  "additional_m3_holes": {
+    "diameter": 3.2000000000000006,
+    "thread": "M3 clearance",
+    "centers_from_bottom_left": [
+      [
+        36.0,
+        4.0
+      ],
+      [
+        47.0,
+        11.0
+      ],
+      [
+        46.00000000000001,
+        19.0
+      ],
+      [
+        22.0,
+        46.00000000000001
+      ]
+    ]
+  },
+  "fusion": {
+    "profile_count": 13,
+    "solid_body_count": 1,
+    "largest_profile_area_mm2": 88442.76460756401,
+    "user_parameter_count": 30
+  },
+  "files": {
+    "f3d": "CAD/SolidBackPlate.f3d",
+    "step": "CAD/SolidBackPlate.step",
+    "dxf": "CAD/SolidBackPlate_QTY1_1to1.dxf",
+    "preview": "images/solid-back-plate-cad.png"
+  },
+  "note": "Solid back plate with twelve M3 holes and one 5 x 5 mm top-edge notch whose right edge is 180 mm from the right plate edge."
+}

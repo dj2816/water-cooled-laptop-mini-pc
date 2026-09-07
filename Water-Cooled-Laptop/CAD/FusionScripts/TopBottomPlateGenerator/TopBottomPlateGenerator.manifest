@@ -1,0 +1,10 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "script",
+  "author": "OpenAI Codex",
+  "description": {
+    "": "Generate the revised 3 mm RAM-side acrylic plate with two fan cutouts, one lower-left access opening, and eight M3 standoff holes."
+  },
+  "supportedOS": "windows",
+  "editEnabled": true
+}

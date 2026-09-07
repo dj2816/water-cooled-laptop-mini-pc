@@ -1,0 +1,10 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "script",
+  "author": "OpenAI Codex",
+  "description": {
+    "": "Generate the 3 mm acrylic back plate with twelve M3 holes and a 5 x 5 mm top-edge notch."
+  },
+  "supportedOS": "windows",
+  "editEnabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "script",
+  "author": "OpenAI Codex",
+  "description": {
+    "": "Generate the 363 x 244 x 3 mm third acrylic plate with only the six annotated M3 clearance holes."
+  },
+  "supportedOS": "windows",
+  "editEnabled": true
+}
